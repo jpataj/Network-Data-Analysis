@@ -1,2 +1,2 @@
 # Network-Data-Analysis
-A small peak into big data analysis
+A small peak into Big Fata analysis. 
